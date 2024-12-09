@@ -4,7 +4,7 @@ Projeto desenvolvido em HTML, CSS e JavaScript, para criação de um piano virtu
 Esse projeto foi proposto por Felipe Aguiar da plataforma educacional DIO.
 
 ## 🖥 Preview:
-
+(https://deboramc05.github.io/js-music-keyboard-virtual/)
 
 ## 👨‍💻 Objetivo:
 - Reproduzir passo passo o projeto visto em aula.
